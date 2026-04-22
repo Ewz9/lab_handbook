@@ -1,0 +1,17 @@
+site_name: 實驗室手冊 (Your Lab Name)
+theme:
+  name: material
+  language: zh-Hant # 設定為繁體中文
+  palette:
+    primary: indigo # 顏色可自選
+    accent: indigo
+  features:
+    - navigation.tabs # 頂部導覽列
+    - search.suggest
+    - search.highlight
+
+nav:
+  - 首頁: index.md
+  - 實驗室規範: regulations.md
+  - 研究與 AI 工具: research.md
+  - 常用流程 (報帳/設備): workflow.md
