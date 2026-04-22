@@ -1,16 +1,40 @@
 site_name: 實驗室手冊
 site_description: 實驗室管理規範與學術研究指南
 site_author: Shao-Kang (Greg) Huang
+
 theme:
   name: material
-  language: zh-Hant # 設定為繁體中文
-  palette:
-    primary: indigo # 顏色可自選
-    accent: indigo
+  language: zh-Hant 
+  # 增加功能：自動回到頂部、搜尋建議、頂部頁籤
   features:
-    - navigation.tabs # 頂部導覽列
+    - navigation.tabs
+    - navigation.top
     - search.suggest
     - search.highlight
+    - content.code.copy # 讓學生可以一鍵複製程式碼或指令
+  
+  # 增加功能：讓網站支援深淺色模式自動切換
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切換至深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切換至亮色模式
+
+# 增加擴充功能：支援漂亮的警告方塊 (Admonitions)
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 nav:
   - 首頁: index.md
