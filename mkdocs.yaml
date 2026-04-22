@@ -1,4 +1,6 @@
-site_name: 實驗室手冊 (Your Lab Name)
+site_name: 實驗室手冊
+site_description: 實驗室管理規範與學術研究指南
+site_author: Shao-Kang (Greg) Huang
 theme:
   name: material
   language: zh-Hant # 設定為繁體中文
