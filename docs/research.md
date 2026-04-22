@@ -21,10 +21,10 @@
 > 以下資源包含實驗室內部資料，**請勿任意外流與轉載**。
 
 為確保研究進度順利，建議成員於入學初期掌握以下核心技能：
-實驗室內部資料，請勿任意外流與轉載
-* [基礎電腦程式與AI相關技能](https://github.com/Ewz9/Mentor_grad_students)
-    * 包含 Python 環境管理、Git 版本控制與基礎 Deep Learning 架構。      
-* [基礎物件姿態估測](https://drive.google.com/file/d/1ztCUupH_fjHEj1lQiCwzVfoZXpqBcPZJ/view?usp=sharing)
-    * 屬於機器人感知核心技術，能配合手臂路徑規劃實現機器人物件夾取，是Phyical AI關鍵技術之一。
-* [基礎異常偵測系統](https://drive.google.com/file/d/1l_m5SXQI8uu1zjCE2AO3EUjFUm0-A_1e/view?usp=sharing)
-    * 常見於公司管理、工業檢測、視覺數據分析以及物聯網等應用領域。
+實驗室內部資料，請勿任意外流與轉載<br />
+* [基礎電腦程式與AI相關技能](https://github.com/Ewz9/Mentor_grad_students)<br />
+    * 包含 Python 環境管理、Git 版本控制與基礎 Deep Learning 架構。<br />      
+* [基礎物件姿態估測](https://drive.google.com/file/d/1ztCUupH_fjHEj1lQiCwzVfoZXpqBcPZJ/view?usp=sharing)<br />
+    * 屬於機器人感知核心技術，能配合手臂路徑規劃實現機器人物件夾取，是Phyical AI關鍵技術之一。<br />
+* [基礎異常偵測系統](https://drive.google.com/file/d/1l_m5SXQI8uu1zjCE2AO3EUjFUm0-A_1e/view?usp=sharing)<br />
+    * 常見於公司管理、工業檢測、視覺數據分析以及物聯網等應用領域。<br />
