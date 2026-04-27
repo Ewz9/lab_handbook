@@ -1,5 +1,4 @@
-# People
-# 成員
+# People 成員
 
 ## Principal Investigator
 
