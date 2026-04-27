@@ -1,5 +1,4 @@
-# Lab Management & Conduct Policy  
-# 實驗室管理與使用規範
+# Lab Management & Conduct Policy 實驗室管理與使用規範
 
 ---
 
