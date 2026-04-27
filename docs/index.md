@@ -19,11 +19,9 @@ Please review all materials carefully and integrate them into your research prac
 
 ---
 
-## Lab Culture & Values  
-## 實驗室風氣與價值觀
+## Lab Culture & Values 實驗室風氣與價值觀
 
-### 1. Professionalism & Rigor  
-### 專業能力與嚴謹態度
+### 1. Professionalism & Rigor 專業能力與嚴謹態度
 
 <div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
 <p>
@@ -37,8 +35,7 @@ Our goal is not short-term results, but sustainable competence in AI.
 </p>
 </div>
 
-### 2. Research Integrity  
-### 學術誠信與研究品質
+### 2. Research Integrity 學術誠信與研究品質
 
 <div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
 <p>All research must adhere to the following principles:</p>
@@ -58,8 +55,7 @@ Our goal is not short-term results, but sustainable competence in AI.
 </ul>
 </div>
 
-### 3. Initiative & Responsibility  
-### 自主學習與責任
+### 3. Initiative & Responsibility 自主學習與責任
 
 <div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
 <p>
@@ -85,8 +81,7 @@ Research progress is the responsibility of each individual. Members should take 
 </ol>
 </div>
 
-### 4. Resource & Environment  
-### 資源維護與實驗室環境
+### 4. Resource & Environment 資源維護與實驗室環境
 
 <div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
 <p>Lab resources must be properly maintained:</p>
