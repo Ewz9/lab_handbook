@@ -61,6 +61,21 @@ Our goal is not short-term results, but sustainable competence in AI.
 
 <p>Maintain a safe and sustainable research environment for all members.</p>
 
+#### 5. Respect & Accountability
+
+<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
+<p>
+Mutual respect and accountability are fundamental to a professional research environment.
+</p>
+
+<ul>
+  <li>Maintain respectful communication with advisors and lab members</li>
+  <li>Respond to messages and meeting requests in a timely manner</li>
+  <li>Do not disappear or become unresponsive without prior notice</li>
+  <li>Take responsibility for your commitments and deadlines</li>
+</ul>
+</div>
+
 ---
 
 ## 中文版本
@@ -110,5 +125,20 @@ Our goal is not short-term results, but sustainable competence in AI.
 </div>
 
 <p>共同維護安全且可持續的研究環境。</p>
+
+#### 5. 尊重與守信
+
+<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
+<p>
+良好的研究環境建立於彼此尊重與基本的責任感之上。
+</p>
+
+<ul>
+  <li>與指導教授及實驗室成員保持基本禮貌與尊重</li>
+  <li>應適時回覆訊息與會議安排</li>
+  <li>不得無故失聯或長時間未回應</li>
+  <li>對自身承諾之工作與時程負責</li>
+</ul>
+</div>
 
 ---
