@@ -22,6 +22,7 @@ Failure to meet these requirements may result in delayed approval of graduation.
 3. **Thesis**
    - Pass the oral defense
    - Complete all required revisions
+   - Subject to advisor approval
 
 ---
 
