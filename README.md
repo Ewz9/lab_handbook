@@ -1,4 +1,72 @@
-# 實驗室管理與使用規範 (Lab Management & Conduct Policy)
+# Lab Management & Conduct Policy 實驗室管理與使用規範
+
+---
+
+## English Version
+
+> **Core Values: Research Integrity, Initiative, Mutual Respect**  
+> This lab aims to maintain a productive research environment. All members are required to comply with the following policies.  
+> Web version: https://ewz9.github.io/lab_handbook/
+
+---
+
+### I. Laboratory Assets
+- Equipment is for academic use only.
+- Unauthorized borrowing, transfer, or rental is prohibited.
+- Do not remove equipment from campus without approval.
+- Report any damage immediately.
+- Damage caused by negligence is subject to university regulations.
+
+---
+
+### II. Laboratory Usage
+- The last person leaving must lock the door.
+- Before weekends or emergencies, ensure lights and equipment are turned off.
+- Staying in the lab beyond 10:00 PM is prohibited.
+- Keep the environment clean and restore shared spaces after use.
+- Visitors are not allowed without permission.
+
+---
+
+### III. Research Conduct
+
+#### Meetings
+- Members must meet with the advisor at least once every two weeks.
+- Reports should include progress, problems, attempted solutions, and next steps.
+
+#### Attendance
+- Members are expected to work during regular hours unless approved.
+- Long-term absence or lack of communication is not allowed.
+
+#### Data Management
+- Accounts must not be shared.
+- Data must be backed up (cloud + local).
+- All materials must be organized before departure.
+
+#### AI Usage
+- AI-generated content must be verified.
+- Direct submission of AI-generated outputs is prohibited.
+
+---
+
+### IV. Violations
+- First violation: warning  
+- Repeated violations: restricted access or administrative report  
+- Severe cases: removal from the lab  
+
+---
+
+### Member Agreement
+New members must acknowledge this policy via:
+👉 https://github.com/Ewz9/lab_handbook/issues/1
+
+Statement:
+> "I, [Name], have read and agree to comply with all lab policies. Date: YYYY/MM/DD"
+
+---
+
+## 中文版本
+
 
 > **核心價值：研究誠信、主動學習、彼此尊重**
 > 
