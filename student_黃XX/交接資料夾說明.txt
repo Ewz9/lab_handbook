@@ -1,0 +1,29 @@
+請各位下載一份空白資料夾結構，並依照下方格式放入研究成果
+
+Lab-Archive/
+├── Student_XXX/                          # 每位學生一個資料夾
+│   ├── 01_Thesis畢業論文/               # 畢業相關
+│   │   ├── Thesis_Final.pdf            # 論文pdf
+│   │   ├── Thesis_Final.docx           # 論文doc檔案
+│   │   ├── Figures圖片/                # 論文圖片（原始檔）
+│   │   │   ├── fig1.vsdx              # 圖片原始檔（Visio / draw.io / PPT 等）
+│   │   │   ├── fig2.drawio
+│   │   │   └── ...
+│   │   └── Defense口試投影片/
+│   │       └── 20250610_Defense.pptx   # 口試投影片
+│   │
+│   ├── 02_Presentations平時報告/        # 平時報告
+│   │   ├── 20260405_資料蒐集.pptx
+│   │   ├── 20260420_ModelDesign.pptx
+│   │   └── ...
+│   │
+│   ├── 03_Code程式/                      # 程式與說明
+│   │   ├── README.txt                   # 必填（重點）
+│   │   ├── src/                         # 程式本體
+│   │   └── requirements.txt (optional)
+│   │
+│   ├── 04_Papers發表論文/                # 相關論文(依投稿標的分資料夾)
+│   │   └── ...                          # 最終版word, pdf
+│   │
+│   └── 05_Other其他/                     # 其他補充資料
+│       └── ...
