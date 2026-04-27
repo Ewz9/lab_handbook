@@ -1,144 +1,76 @@
 # Perception, Edge AI, and Robotics Laboratory  
-**PEAR Lab**
+**PEAR Lab (感知、邊緣人工智慧與機器人實驗室)**
 
-# 感知、邊緣人工智慧與機器人實驗室
-
-> The advisor provides time for exploration and growth, but research progress is ultimately your own responsibility.  
-> 指導老師願意給予學生時間探索與成長，但研究進度終究是自己的責任。
+> 「指導老師願意給予學生時間探索與成長，但研究進度終究是自己的責任。」
 
 ---
 
 ## English Version
 
-<div style="background-color:#eef4ff; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #3b82f6;">
-<p>
-This website serves as the central hub for lab operations, including policies, technical resources, and administrative workflows.<br>
-Please review all materials carefully and integrate them into your research practice.
-</p>
+<div style="background-color:#eef4ff; padding:16px; border-radius:10px; margin:16px 0; border-left:5px solid #3b82f6;">
+This website serves as the central hub for lab operations, including policies, technical resources, and administrative workflows. Please review all materials carefully and integrate them into your research practice.
 </div>
 
 ### Lab Culture & Values
 
 #### 1. Professionalism & Rigor
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<p>
-We expect all members to develop solid technical skills and maintain rigorous academic standards.<br>
-Our goal is not short-term results, but sustainable competence in AI.
-</p>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+We expect all members to develop solid technical skills and maintain rigorous academic standards. Our goal is not short-term results, but sustainable competence in AI.
 </div>
 
 #### 2. Research Integrity
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<p>All research must adhere to the following principles:</p>
-
-<ul>
-  <li><strong>Reliability</strong>: Data must be accurate and truthful</li>
-  <li><strong>Reproducibility</strong>: Experiments must be verifiable</li>
-  <li><strong>Critical Thinking</strong>: Do not blindly trust AI-generated outputs</li>
-</ul>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+<strong>Principles:</strong> 
+• <strong>Reliability</strong>: Accurate data • <strong>Reproducibility</strong>: Verifiable results • <strong>Critical Thinking</strong>: Verify AI outputs.
 </div>
 
 #### 3. Initiative & Responsibility
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<p>Research progress is the responsibility of each individual.</p>
-
-<p><strong>Expected behaviors:</strong></p>
-<ol>
-  <li>Read relevant literature</li>
-  <li>Implement and test methods</li>
-  <li>Identify problems and propose solutions</li>
-</ol>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+Research progress is an individual responsibility. Members should:
+1. Read literature 2. Implement methods 3. Propose solutions.
 </div>
 
 #### 4. Resource & Environment
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<ul>
-  <li>Keep the environment clean</li>
-  <li>Use equipment properly</li>
-  <li>Avoid misuse or damage</li>
-</ul>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+Keep the environment clean, use equipment properly, and avoid misuse to ensure a sustainable research space.
 </div>
 
-<p>Maintain a safe and sustainable research environment for all members.</p>
-
 #### 5. Respect & Accountability
-
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<p>
-Mutual respect and accountability are fundamental to a professional research environment.
-</p>
-
-<ul>
-  <li>Maintain respectful communication with advisors and lab members</li>
-  <li>Respond to messages and meeting requests in a timely manner</li>
-  <li>Do not disappear or become unresponsive without prior notice</li>
-  <li>Take responsibility for your commitments and deadlines</li>
-</ul>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+Maintain respectful communication, respond to messages timely, and take full responsibility for your commitments and deadlines.
 </div>
 
 ---
 
 ## 中文版本
 
-<div style="background-color:#eef4ff; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #3b82f6;">
-<p>
-這裡是實驗室的運作中心，存放所有規範、技術資源與行政流程。<br>
-請每位成員務必詳閱，並將其內化為研究生活的一部分。
-</p>
+<div style="background-color:#eef4ff; padding:16px; border-radius:10px; margin:16px 0; border-left:5px solid #3b82f6;">
+這裡是實驗室的運作中心，存放所有規範、技術資源與行政流程。請每位成員務必詳閱，並將其內化為研究生活的一部分。
 </div>
 
 ### 實驗室風氣與價值觀
 
 #### 1. 專業能力與嚴謹態度
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<p>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
 本實驗室期望每位成員培養紮實的專業能力與嚴謹的學術態度，強調可持續累積的核心能力。
-</p>
 </div>
 
 #### 2. 學術誠信與研究品質
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<ul>
-  <li><strong>真實可靠</strong>：實驗數據須真實</li>
-  <li><strong>可驗證性</strong>：研究過程須可重現</li>
-  <li><strong>批判思考</strong>：不得盲信 AI 結果</li>
-</ul>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+• <strong>真實可靠</strong>：數據須真實 • <strong>可驗證性</strong>：過程須可重現 • <strong>批判思考</strong>：不得盲信 AI 結果。
 </div>
 
 #### 3. 自主學習與責任
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<p><strong>建議基本行為：</strong></p>
-<ol>
-  <li>主動閱讀文獻</li>
-  <li>實作與驗證方法</li>
-  <li>整理問題並提出解法</li>
-</ol>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+<strong>核心行為：</strong> 主動閱讀文獻、實作驗證方法、整理問題並提出解法。
 </div>
 
 #### 4. 資源維護與實驗室環境
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<ul>
-  <li>維持環境整潔</li>
-  <li>正確使用設備</li>
-  <li>避免不當使用</li>
-</ul>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+維持環境整潔、正確使用設備、避免不當使用，共同維護安全且可持續的研究環境。
 </div>
-
-<p>共同維護安全且可持續的研究環境。</p>
 
 #### 5. 尊重與守信
-
-<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
-<p>
-良好的研究環境建立於彼此尊重與基本的責任感之上。
-</p>
-
-<ul>
-  <li>與指導教授及實驗室成員保持基本禮貌與尊重</li>
-  <li>應適時回覆訊息與會議安排</li>
-  <li>不得無故失聯或長時間未回應</li>
-  <li>對自身承諾之工作與時程負責</li>
-</ul>
+<div style="padding:12px 16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-top:5px; margin-bottom:10px;">
+保持禮貌、準時回覆訊息與會議、不無故失聯，並對自身承諾的工作與時程負責。
 </div>
-
----
