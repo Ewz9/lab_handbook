@@ -1,8 +1,9 @@
 # Resources 學習資源
 
-[English Version]
+
 
 ## Prerequisites & Learning Resources
+[English Version]
 > [!IMPORTANT]
 > The following resources include internal lab materials. **Do not redistribute or share externally.**
 
