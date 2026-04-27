@@ -7,7 +7,7 @@
 <p><strong>Shao-Kang Huang 黃紹綱</strong></p>
 
 <p>
-Assistant Professor  
+Assistant Professor<br>
 Department of Artificial Intelligence<br>
 Tamkang University
 </p>
