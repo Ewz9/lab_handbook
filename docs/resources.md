@@ -1,8 +1,8 @@
 # Resources 學習資源
 
-## English Version
+[English Version]
 
-## 📚 Prerequisites & Learning Resources
+## Prerequisites & Learning Resources
 > [!IMPORTANT]
 > The following resources include internal lab materials. **Do not redistribute or share externally.**
 
@@ -22,7 +22,7 @@ To ensure smooth research progress, new members are expected to acquire the foll
 
 ---
 
-## 📚 先備知識與學習資源
+## 先備知識與學習資源
 > [!IMPORTANT]
 > 以下資源包含實驗室內部資料，**請勿任意外流與轉載**。
 
