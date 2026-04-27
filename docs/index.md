@@ -1,7 +1,7 @@
-# PEAR Lab  
+# **PEAR Lab**  
 **Perception, Edge AI, and Robotics Laboratory**
 
-# 感知、邊緣人工智慧與機器人實驗室
+# **感知、邊緣人工智慧與機器人實驗室**
 
 > The advisor provides time for exploration and growth, but research progress is ultimately your own responsibility.  
 > 指導老師願意給予學生時間探索與成長，但研究進度終究是自己的責任。
