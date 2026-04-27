@@ -1,5 +1,5 @@
-# PEAR Lab  
-**Perception, Edge AI, and Robotics Laboratory**
+# Perception, Edge AI, and Robotics Laboratory  
+**PEAR Lab**
 
 # 感知、邊緣人工智慧與機器人實驗室
 
