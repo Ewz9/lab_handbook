@@ -6,23 +6,54 @@
 
 This lab requires all students to complete both academic and internal requirements before graduation.
 
+Failure to meet these requirements may result in delayed approval of graduation.
+
+---
+
 ### Requirements
 
 1. **Department Requirements**
-   - Complete coursework and meet graduation criteria
+   - Complete all coursework and meet official graduation criteria
 
 2. **Research Contribution**
    - Participate in at least one publication (journal or conference)
    - Must demonstrate substantial contribution
 
 3. **Thesis**
-   - Pass oral defense and complete revisions
+   - Pass the oral defense
+   - Complete all required revisions
 
-4. **Lab Handover**
-   - Code must be organized and uploaded
-   - Documentation (README) must be complete
-   - Data and slides must be archived
-   - Successor must be able to reproduce results
+---
+
+### Lab Handover (Core Requirement)
+
+To ensure research continuity and reproducibility, the following must be completed:
+
+- Code must be properly organized and uploaded to the designated repository  
+- Documentation (README) must include environment setup, execution instructions, and dataset information  
+- All related materials (thesis files, slides, experimental results) must be archived  
+- The successor must be able to reproduce results independently  
+
+---
+
+### Handover Criteria
+
+A handover is considered complete only if:
+
+- Code can be executed in a new environment  
+- Results are reproducible without additional explanation  
+- All materials are properly organized and archived  
+
+---
+
+### Notes
+
+- Graduation requirements must be completed in sequence  
+- Students are expected to allocate sufficient time (1–2 weeks) for final organization and handover  
+- All research outputs must maintain reproducibility and integrity  
+
+For detailed procedures, refer to:  
+https://ewz9.github.io/lab_handbook/workflow/
 
 ---
 
