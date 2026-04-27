@@ -16,7 +16,7 @@ Failure to meet these requirements may result in delayed approval of graduation.
    - Complete all coursework and meet official graduation criteria
 
 2. **Research Contribution**
-   - Participate in at least one publication (journal or conference)
+   - Expected to participate in at least one publication (journal or conference)
    - Must demonstrate substantial contribution
 
 3. **Thesis**
