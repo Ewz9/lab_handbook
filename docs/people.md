@@ -14,7 +14,8 @@ Tamkang University
 
 <p>
 <strong>Email:</strong> <a href="mailto:169394@o365.tku.edu.tw">169394@o365.tku.edu.tw</a><br>
-<strong>Phone:</strong> #55654
+<strong>Phone:</strong> #55654<br>
+<strong>Office:</strong> E722
 </p>
 
 </div>
