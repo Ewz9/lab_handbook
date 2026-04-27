@@ -36,9 +36,12 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-nav:
-  - 首頁: index.md
-  - 實驗室規範: regulations.md
-  - 研究: research.md
-  - 行政事務: workflow.md
-  - 畢業流程: graduate.md
+nav: 
+  - Home: index.md
+  - Research: research.md
+  - People: member.md
+  - Resources: resource.md
+  - Handbook:
+      - Lab Regulations: regulations.md
+      - Workflow: workflow.md
+      - Graduation: graduate.md
