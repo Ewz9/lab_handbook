@@ -88,5 +88,4 @@ A handover is considered complete only if:
 
 - **循序漸進**：請預留至少 1–2 週進行資料整理。
 - **研究誠信**：所有數據須確保可重現性。
-- **詳細操作**：請參閱  
-  👉 https://ewz9.github.io/lab_handbook/workflow/
+- **詳細操作**：請參閱[此處](https://ewz9.github.io/lab_handbook/workflow/)
