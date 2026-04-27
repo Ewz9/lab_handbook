@@ -1,5 +1,5 @@
-# 歡迎來到 感知、邊緣與自主機器人實驗室  
-**(Perception, Edge, and Autonomous Robotics Laboratory, PEAR Lab)**
+# 歡迎來到 感知、邊緣人工智慧與機器人實驗室  
+**(Perception, Edge AI, and Robotics Laboratory, PEAR Lab)**
 
 > 「指導老師願意給予學生時間探索與成長，但研究進度終究是自己的責任。」
 
