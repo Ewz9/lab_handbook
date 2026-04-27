@@ -40,7 +40,7 @@ nav:
   - Home: index.md
   - Research: research.md
   - People: member.md
-  - Resources: resource.md
+  - Resources: resources.md
   - Handbook:
       - Lab Regulations: regulations.md
       - Workflow: workflow.md
