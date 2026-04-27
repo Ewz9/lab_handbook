@@ -1,70 +1,113 @@
-# 實驗室管理與使用規範 (Lab Management & Conduct Policy)
+# Lab Management & Conduct Policy  
+# 實驗室管理與使用規範
 
-> **核心價值：研究誠信、主動學習、彼此尊重**
-> 
+---
+
+## English Version
+
+> **Core Values: Research Integrity, Initiative, Mutual Respect**  
+> This laboratory aims to maintain a productive research environment. All members are required to comply with the following policies.
+
+### I. Laboratory Asset Management
+- Equipment must be used for academic purposes only.
+- Unauthorized borrowing, transfer, or rental is prohibited.
+- Report damage immediately via Teams or email.
+- Damage caused by negligence is subject to university regulations.
+
+---
+
+### II. Laboratory Space Usage
+- The last person leaving must lock the door.
+- Before weekends or extreme weather, ensure lights, AC, and windows are secured.
+- Staying in the lab beyond 10:00 PM is prohibited.
+- Shared spaces must be kept clean.
+
+---
+
+### III. Research Conduct
+
+#### Meetings
+- Bi-weekly meetings with the advisor are required.
+- Reports must include progress, problems, attempted solutions, and next steps.
+
+#### Attendance
+- Members are expected to work during regular hours unless approved.
+- Long-term absence without communication is not allowed.
+
+#### Data Management
+- No account sharing.
+- Data must be backed up (cloud + local).
+- All materials must be organized before departure.
+
+---
+
+### AI Usage Policy
+
+- All AI-generated outputs must be verified.
+- Direct submission of AI-generated results is prohibited.
+- AI usage must be disclosed.
+- Do not upload sensitive or unpublished data to public AI tools.
+
+---
+
+### IV. Violations
+- First violation: warning  
+- Repeated violation: restricted access or administrative action  
+- Severe cases: removal from the lab  
+
+---
+
+## 中文版本
+
+> **核心價值：研究誠信、主動學習、彼此尊重**  
 > 本實驗室旨在維持良好的研究環境與基本運作秩序，每位成員均須遵守以下規範。
 
----
-
-## Ⅰ. 實驗室財產管理
-所有設備與資源皆屬校方財產，旨在支持學術研究。
-
-* **嚴禁私用**：設備不得用於非學術用途（例如：加密貨幣挖礦、私人營利等），亦不得私自借用、轉讓或租賃。
-* **財產盤點**：校方每年進行盤點與不定期查核，設備未經許可不得擅自帶離校內。
-* **故障通報**：設備發生故障或損壞，應立即透過 **Teams 或 Email** 通知指導教授，切勿自行處理或隱匿不報。
-* **責任歸屬**：因個人疏失導致設備損毀者，須依校方規定負擔相應賠償責任。
+### 一、實驗室財產管理
+- 設備僅限學術用途使用。
+- 不得私自借用、轉讓或租賃。
+- 設備故障須立即通報。
+- 因個人疏失造成損壞須依校方規定負責。
 
 ---
 
-## Ⅱ. 實驗室空間使用規範
-維護安全與整潔是每位成員的共同責任。
-
-* **門禁與安全**：
-    * 進出應隨手關門，最後離開者須負責鎖門。
-    * 最後離開、假日、颱風前務必確認：**關閉電燈冷氣、關閉門窗、確保電源安全**。
-* **時間限制**：
-    * **嚴禁留宿**：學生不得滯留實驗室超過 **晚上 10:00**。
-* **環境維護**：
-    * 個人垃圾須當日清除，不得堆積。
-    * 公共空間（桌面、白板、設備區）使用後須恢復原狀。
-* **訪客限制**：未經允許，不得攜帶非成員長時間使用實驗室空間或設備。
+### 二、實驗室空間使用
+- 最後離開者須鎖門。
+- 假日或颱風前須關閉電源與門窗。
+- 晚上10點後不得滯留。
+- 公共空間須維持整潔。
 
 ---
 
-## Ⅲ. 研究生學術與出席規範
-研究不僅是技術產出，更包含職業道德與團隊互動。
+### 三、研究與出席規範
 
-1.  **進度會議 (Meeting)**：
-    * 每兩週至少與指導教授進行一次進度會議。
-    * **報告內容**：研究進度、當前問題、嘗試過的解法、下一步規劃。
-2.  **出席要求**：
-    * 原則上於正常上班時間在實驗室研究。
-    * 特殊需求（遠端、彈性工時）須事先討論並取得同意，且不得影響研究品質。
-    * **嚴禁長期未回報或失聯**。
-3.  **資料管理**：
-    * 帳號不得共用。
-    * 研究資料須定期執行**雙重備份**（雲端與硬碟）。
-    * 畢業或離職前，須完成資料夾整理並完整交接原始碼與文件。
-4.  **AI 工具使用**：
-    * 凡利用 AI 產出之參考文獻、數據、算式，**必須逐一人工驗證**。
-    * 不得將 AI 生成內容直接作為最終成果提交。
+#### 會議
+- 每兩週至少一次會議。
+- 需報告進度、問題與後續規劃。
+
+#### 出席
+- 原則上於正常時間在實驗室工作。
+- 未經許可不得長期缺席或失聯。
+
+#### 資料管理
+- 帳號不得共用。
+- 資料需雙重備份（雲端＋本地）。
+- 離開前須完成資料整理與交接。
 
 ---
 
-## Ⅳ. 違規處理機制
-* **初次違反**：進行口頭或書面警告。
-* **多次或情節重大**：限制實驗室資源使用權，並通報系所行政單位。
-* **拒不改善**：要求退出實驗室並移送相關行政議處。
+### AI 工具使用規範
+- AI 產出內容須逐一驗證。
+- 不得直接作為最終成果提交。
+- 使用 AI 須誠實揭露。
+- 不得上傳敏感或未發表資料。
 
 ---
 
-## 成員簽署
-請新進成員於[此Repository的Issues分頁](https://github.com/Ewz9/lab_handbook/issues/1)
-"[簽署] 實驗室規範確認 (Member Agreement)"下方留言，內容註明「本人 [姓名] 已詳閱並同意本實驗室手冊之所有規範。日期：2026/04/22」以完成數位簽署。
-
-**附則**
-* 本規範自公布日起實施，修正時亦同。
-* 如有未盡事宜，悉依校方相關規定辦理。
+### 四、違規處理
+- 初次違反：警告  
+- 多次違反：限制資源或通報  
+- 情節重大：移出實驗室  
 
 ---
+
 *Last Updated: 2026-04-22*
