@@ -1,4 +1,4 @@
-# Research
+# Research 研究方向
 
 Our lab focuses on applying artificial intelligence to real-world environments, 
 particularly integrating perception, edge computing, and intelligent systems to 
