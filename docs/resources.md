@@ -1,4 +1,4 @@
-# 學習資源(Resources)
+# Resources 學習資源
 
 ## 📚 先備知識與學習資源
 > [!IMPORTANT]
