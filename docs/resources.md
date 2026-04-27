@@ -3,7 +3,7 @@
 
 
 ## Prerequisites & Learning Resources
-[English Version]
+**[English Version]**
 > [!IMPORTANT]
 > The following resources include internal lab materials. **Do not redistribute or share externally.**
 
