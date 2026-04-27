@@ -3,7 +3,7 @@
 
 # 感知、邊緣人工智慧與機器人實驗室
 
-> The advisor provides time for exploration and growth, but research progress is ultimately your own responsibility.
+> The advisor provides time for exploration and growth, but research progress is ultimately your own responsibility.<br>
 > 指導老師願意給予學生時間探索與成長，但研究進度終究是自己的責任。
 
 <div style="background-color:#eef4ff; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #3b82f6;">
