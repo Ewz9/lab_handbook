@@ -1,4 +1,4 @@
-# MPEAILab實驗室管理與使用規範 (Lab Management & Conduct Policy)
+# 實驗室管理與使用規範 (Lab Management & Conduct Policy)
 
 > **核心價值：研究誠信、主動學習、彼此尊重**
 > 
