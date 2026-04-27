@@ -1,7 +1,7 @@
 # People 成員
 
 ## **Principal Investigator**
-<img src="./assets/images/PI_photo.PNG" width="160">
+<img src="./assets/images/pi_photo.jpg" width="160">
 <div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
 
 <p><strong>Shao-Kang Huang 黃紹綱</strong></p>
