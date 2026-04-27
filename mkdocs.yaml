@@ -39,7 +39,7 @@ markdown_extensions:
 nav: 
   - Home: index.md
   - Research: research.md
-  - People: member.md
+  - People: people.md
   - Resources: resources.md
   - Handbook:
       - Lab Regulations: regulations.md
