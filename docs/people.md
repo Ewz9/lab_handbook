@@ -1,7 +1,35 @@
-# 研究與學術規範
+# 成員(People)
 
-## AI 工具使用守則
-因應生成式 AI 技術發展，本實驗室規範如下：
-1. **驗證責任**：AI 生成的程式碼、數學推導或文獻引用，必須由本人逐一驗證其正確性。
-2. **誠實揭露**：在論文或報告中應註明哪些部分曾參考 AI 協助。
-3. **資料隱私**：嚴禁將未發表的敏感研究數據輸入公開的 AI 模型。
+## Principal Investigator
+
+<div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
+
+<p><strong>黃紹綱</strong></p>
+
+<p>
+Department of Artificial Intelligence<br>
+Tamkang University
+</p>
+
+<p>
+<strong>Email:</strong> <a href="mailto:169394@o365.tku.edu.tw">169394@o365.tku.edu.tw</a><br>
+<strong>Phone:</strong> #55654
+</p>
+
+</div>
+
+---
+
+## Students
+
+<div style="padding:16px; background-color:#ffffff; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
+<p>（Coming soon）</p>
+</div>
+
+---
+
+## Alumni
+
+<div style="padding:16px; background-color:#ffffff; border-radius:8px; border:1px solid #e9ecef;">
+<p>（Coming soon）</p>
+</div>
