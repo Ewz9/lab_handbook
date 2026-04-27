@@ -1,5 +1,27 @@
 # Resources 學習資源
 
+## English Version
+
+## 📚 Prerequisites & Learning Resources
+> [!IMPORTANT]
+> The following resources include internal lab materials. **Do not redistribute or share externally.**
+
+To ensure smooth research progress, new members are expected to acquire the following core skills during the early stage:
+
+!!! info "Internal Lab Materials – Do Not Distribute"
+    These resources form the foundation of our lab research. Please study them carefully.
+
+* **[Fundamental Programming & AI Skills](https://github.com/Ewz9/Mentor_grad_students)**
+    * Includes Python environment setup, Git version control, and basic deep learning frameworks.
+    
+* **[Object Pose Estimation Basics](https://drive.google.com/file/d/1ztCUupH_fjHEj1lQiCwzVfoZXpqBcPZJ/view?usp=sharing)**
+    * A core technique in robotic perception, enabling object grasping when integrated with motion planning. It is a key component of Physical AI.
+    
+* **[Anomaly Detection Basics](https://drive.google.com/file/d/1l_m5SXQI8uu1zjCE2AO3EUjFUm0-A_1e/view?usp=sharing)**
+    * Commonly applied in industrial inspection, surveillance, data analysis, and IoT applications.
+
+---
+
 ## 📚 先備知識與學習資源
 > [!IMPORTANT]
 > 以下資源包含實驗室內部資料，**請勿任意外流與轉載**。
