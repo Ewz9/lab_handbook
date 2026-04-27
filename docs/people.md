@@ -4,9 +4,10 @@
 
 <div style="padding:16px; background-color:#f8f9fa; border-radius:8px; border:1px solid #e9ecef; margin-bottom:20px;">
 
-<p><strong>黃紹綱</strong></p>
+<p><strong>Shao-Kang Huang 黃紹綱</strong></p>
 
 <p>
+Assistant Professor  
 Department of Artificial Intelligence<br>
 Tamkang University
 </p>
