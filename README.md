@@ -57,8 +57,7 @@
 ---
 
 ### Member Agreement
-New members must acknowledge this policy via:
-👉 https://github.com/Ewz9/lab_handbook/issues/1
+New members must acknowledge this policy via: [Issue](https://github.com/Ewz9/lab_handbook/issues/1)
 
 Statement:
 > "I, [Name], have read and agree to comply with all lab policies. Date: YYYY/MM/DD"
@@ -127,7 +126,7 @@ Statement:
 ---
 
 ## 成員簽署
-請新進成員於此 Repository 的 Issues 分頁的"[簽署] 實驗室規範確認 (Member Agreement)"下方留言，內容註明「本人 [姓名] 已詳閱並同意本實驗室手冊之所有規範。日期：2026/04/22」以完成數位簽署。
+請新進成員於此Repository的[Issues分頁](https://github.com/Ewz9/lab_handbook/issues/1)的"[簽署] 實驗室規範確認 (Member Agreement)"下方留言，內容註明「本人 [姓名] 已詳閱並同意本實驗室手冊之所有規範。日期：2026/04/22」以完成數位簽署。
 
 **附則**
 * 本規範自公布日起實施，修正時亦同。
