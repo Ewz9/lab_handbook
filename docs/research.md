@@ -10,7 +10,7 @@ develop deployable AI technologies.
 
 ## Research Areas
 
-### Edge AI
+### Edge AI 邊緣運算
 We study how to deploy deep learning models on resource-constrained edge devices, 
 including model compression, efficient inference, and system optimization.
 
@@ -18,7 +18,7 @@ including model compression, efficient inference, and system optimization.
 
 ---
 
-### Object Pose Estimation
+### Object Pose Estimation 物件姿態估測
 We focus on estimating the 3D position and orientation of objects, with applications 
 in robotic manipulation and scene understanding. Future work includes integration 
 with robotic arms.
@@ -27,7 +27,7 @@ with robotic arms.
 
 ---
 
-### Anomaly Detection
+### Anomaly Detection 異常事件偵測
 We investigate anomaly detection methods for applications such as industrial inspection, 
 surveillance systems, and smart manufacturing.
 
@@ -35,7 +35,7 @@ surveillance systems, and smart manufacturing.
 
 ---
 
-### Machine Perception
+### Machine Perception 機器感知
 We explore how machines interpret visual and sensory data, including visual understanding, 
 representation learning, and multimodal perception.
 
