@@ -1,0 +1,32 @@
+[Project Name] License
+
+Copyright (c) [Year] [Author]
+Project Members: [Project Members]
+
+Supervisor: Shao-Kang Huang
+Affiliation: [Lab / University Name]
+
+---
+
+Permission is granted to use, copy, and modify this project for educational and research purposes only.
+
+The following conditions must be met:
+
+1. This project is developed as part of an academic course or lab.
+2. Redistribution or commercial use is NOT allowed without explicit permission from the author or supervisor.
+3. Proper credit must be given to the original author, project members, and supervisor.
+4. This project is for academic use only.
+
+---
+
+Disclaimer:
+
+This project is provided "as is", without warranty of any kind, express or implied. 
+The author(s), project members, and supervisor are not responsible for any damages or issues arising from the use of this project.
+
+---
+
+Contact:
+
+For permission or inquiries, please contact:
+[Author Email or Contact Information]
