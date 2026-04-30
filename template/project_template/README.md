@@ -34,7 +34,7 @@ Example using Conda
 ```bash
 conda create -n project_name python=3.9
 conda activate project_name
-
+```
 - Provide dependency list:
   - `requirements.txt` OR
   - `environment.yaml`
@@ -42,7 +42,7 @@ conda activate project_name
 Example:
 ```bash
 pip install -r requirements.txt
-  
+```  
 ---
 ## Dataset
 Please specify:
@@ -76,7 +76,7 @@ Pre-processing: Mention any resizing, normalization, or augmentation used.
 ├── evaluation.py         # Script for batch testing and metrics
 ├── requirements.txt      # Dependency list
 └── LICENSE
-
+```
 ## Directory Description
 ### data/
 - Store dataset or dataset instructions
@@ -92,10 +92,10 @@ Pre-processing: Mention any resizing, normalization, or augmentation used.
     exp1.yaml
 
 
-
 ##  How to Run
 - Quick Start (Recommended)
+```bash
 - python train.py --config config/baseline.yaml
 - python inference.py
 - python evaluation.py --weights results/best_model.pth (to output the records)
-
+```
