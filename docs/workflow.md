@@ -25,8 +25,8 @@ All reimbursement requests must:
    Inform the advisor via communication tools before purchase and confirm budget and necessity  
 
 2. **Receipt**  
-   Ensure the university tax ID is included: `[Fill in here]`  
-   Print electronic invoices if necessary  
+   Ensure the university tax ID is included: `[37300900]`  
+   Print electronic invoices if necessary 
 
 3. **System Submission**  
    Submit details in the university reimbursement system, including funding source and purpose  
@@ -75,14 +75,14 @@ All reimbursement requests must:
 
 ---
 
-## 💰 報帳作業規範
+## 💰 [報帳作業規範](https://research.tku.edu.tw/Front/Item/TechnologyProject/Page.aspx?id=zWsaYNn1P20=)
 所有的報帳申請請務必:  
 諮詢**事前確認是否需要填寫統一編號、二/三聯式發票抬頭怎麼寫、已獲指導教授許可**  
 保留**原始發票或收據**，並注意學校核銷期限。
 
 ### 購物報帳 (耗材、設備)
-1. **步驟一：取得許可** 採購前須先於通訊軟體內盡速告知教授，確認預算來源與必要性。  
-2. **步驟二：索取憑證** 購買時務必打上學校統編：`[在此填寫學校統編]`。若為電子發票，請列印紙本。  
+1. **步驟一：取得許可** 採購前須先於通訊軟體內盡速告知教授，確認預算來源與必要性。盡可能找齊**三家**廠商報價單，作為請購單附件。  
+2. **步驟二：索取憑證** 購買時務必打上學校統編：`[37300900]` 買受人：淡江大學學校財團法人淡江大學。若為電子發票，請列印紙本後註明「本件不另報支其他經費」字樣，並簽名或蓋章。  
 3. **步驟三：填寫系統** 登入學校核銷系統，填寫經費來源、用途說明，並貼上憑證。  
 4. **步驟四：送件** 將核銷單據夾好後，送交至系辦公室。  
 
