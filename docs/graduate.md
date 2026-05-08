@@ -6,8 +6,10 @@
 
 This lab requires all students to complete both academic and internal requirements before graduation.
 
+<div style="background-color:#fff8e1; color:#1f2937; padding:14px; border-radius:8px; border-left:5px solid #f0ad4e; margin:16px 0;">
+<strong>Important Notice</strong><br><br>
 Failure to meet these requirements may result in delayed approval of graduation.
-
+</div>
 ---
 
 ### Requirements
