@@ -76,7 +76,7 @@ A handover is considered complete only if:
 
 ## 畢業標準檢核表
 
-<div style="background-color:#fff8e1; padding:14px; border-radius:8px; border-left:5px solid #f0ad4e; margin:16px 0;">
+<div style="background-color:#fff8e1; color:#1f2937; padding:14px; border-radius:8px; border-left:5px solid #f0ad4e; margin:16px 0;">
 <strong>重要提醒</strong><br><br>
 指導教授將依此清單核對進度。若未完成實驗室規範，指導教授有權暫緩相關簽核流程。
 </div>
@@ -102,7 +102,7 @@ A handover is considered complete only if:
 
 ## 交接完成判定標準
 
-<div style="background-color:#f3faf5; padding:14px; border-radius:8px; border-left:5px solid #4caf50; margin:16px 0;">
+<div style="background-color:#f3faf5; color:#1f2937; padding:14px; border-radius:8px; border-left:5px solid #4caf50; margin:16px 0;">
 <strong>成功交接的定義</strong><br><br>
 
 未達以下標準者，視為未完成交接：
