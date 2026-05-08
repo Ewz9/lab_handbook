@@ -12,7 +12,7 @@ For any unclear cases, please consult the department office or the advisor.
 
 ## 💰 Reimbursement Guidelines
 
-All reimbursement requests must:
+All reimbursement requests must: [See the official website for detail](https://research.tku.edu.tw/Front/Item/TechnologyProject/Page.aspx?id=zWsaYNn1P20=)
 
 - Confirm in advance whether a tax ID is required, how the receipt should be issued, and obtain advisor approval  
 - Keep original receipts or invoices and follow the university reimbursement deadline  
@@ -22,10 +22,10 @@ All reimbursement requests must:
 ### Purchase Reimbursement (Supplies / Equipment)
 
 1. **Approval**  
-   Inform the advisor via communication tools before purchase and confirm budget and necessity  
+   Inform the advisor via communication tools before purchase and confirm budget and necessity (Please obtain quotations from at least three vendors whenever possible and attach them to the purchase request form.)
 
 2. **Receipt**  
-   Ensure the university tax ID is included: `[37300900]`  
+   Ensure the university tax ID is included: `[37300900]`  Invoice To:淡江大學學校財團法人淡江大學
    Print electronic invoices if necessary 
 
 3. **System Submission**  
@@ -75,8 +75,8 @@ All reimbursement requests must:
 
 ---
 
-## 💰 [報帳作業規範](https://research.tku.edu.tw/Front/Item/TechnologyProject/Page.aspx?id=zWsaYNn1P20=)
-所有的報帳申請請務必:  
+## 💰 報帳作業規範
+所有的報帳申請請務必: [詳參學校官方文件](https://research.tku.edu.tw/Front/Item/TechnologyProject/Page.aspx?id=zWsaYNn1P20=)  
 諮詢**事前確認是否需要填寫統一編號、二/三聯式發票抬頭怎麼寫、已獲指導教授許可**  
 保留**原始發票或收據**，並注意學校核銷期限。
 
